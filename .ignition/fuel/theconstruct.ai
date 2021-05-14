@@ -1,2 +1,0 @@
-# File empty on purpose, just to make sure the folder exists, otherwise
-# we may have permissions issues in the ros2 tests.
